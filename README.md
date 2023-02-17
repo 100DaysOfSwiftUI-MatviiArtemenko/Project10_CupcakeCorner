@@ -32,7 +32,21 @@ You might not realize this yet, but the skills you learned in this project are t
 ---
 ## &nbsp; 📲 Screenshoot
 
-<!-- add screenshots here!!! -->
+<p align="center">
+  <img 
+  width = 250
+    src="1.png"
+  >
+  <img 
+  width = 250
+    src="2.png"
+  >
+  <img 
+  width = 250
+    src="3.png"
+  >
+</p>
+
 ---
 ##  &nbsp; 🔍 &nbsp; Resources 
 
